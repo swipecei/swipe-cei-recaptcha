@@ -1,0 +1,17 @@
+{
+  "projectId": "72326777",
+  "functions": {
+    "manage-admin": {
+      "hasChanged": false,
+      "hash": "b6c164707393d4edd70204dea8a77b54f0527ae6a942094ac16f737a92e0e3f3"
+    },
+    "newsletter-subscribe": {
+      "hasChanged": false,
+      "hash": "e8e786aeb6040629daf53a8c9e0da0d029ed96f2184c62a62ab8336edfc04d04"
+    },
+    "send-contact-email": {
+      "hasChanged": false,
+      "hash": "e6c465811348fec6d6c726e63e99c9eb2df156f96dc3a030395595c37c22dca0"
+    }
+  }
+}

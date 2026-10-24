@@ -1,0 +1,11 @@
+[functions.send-contact-email]
+verify_jwt = false
+entrypoint = "./functions/send-contact-email/index.ts"
+
+[functions.newsletter-subscribe]
+verify_jwt = false
+entrypoint = "./functions/newsletter-subscribe/index.ts"
+
+[functions.manage-admin]
+verify_jwt = true
+entrypoint = "./functions/manage-admin/index.ts"
